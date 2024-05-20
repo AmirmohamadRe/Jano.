@@ -124,6 +124,7 @@
         height: 49.5rem;
     }
     .headerBottomIcon , .headerBottomIcon > img{display: flex;}
+    .form1section , .form1section1{margin-right: 3rem;}
     .mainForm2{
         margin-top: 20rem;
         margin-bottom: 6rem;

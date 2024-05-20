@@ -321,7 +321,6 @@ a{
     position: relative;
     padding: 2rem;
     margin-bottom: 2.5rem;
-    margin-right: 3rem;
 }
 .form1section1 , .form1section2 ,.form1section{
     display: flex;
@@ -336,7 +335,6 @@ a{
     position: relative;
     padding: 2rem;   
     margin-bottom: 2.5rem;
-    margin-right: 3rem;
 }
 .form1section2{
     background-color: #EEFBFA;
@@ -751,7 +749,6 @@ a{
 .mainForm4Bottom{
     display: flex;
     flex-direction: column;
-    /* margin: 0 auto; */
 }
 .form4BottomSections1{
     display: flex;
