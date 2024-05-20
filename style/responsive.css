@@ -1,0 +1,196 @@
+@media (min-width:576px) {
+
+}
+/* / */
+@media (min-width:768px) {
+    .headerBottomIMgRight{
+        width: 20.3rem;
+        height: 29.5rem;
+    }
+    .headerBottomIMgLeft{
+        width: 20.3rem;
+        height: 29.5rem;
+    }
+    .mainForm2Top_H2{max-width: none;}
+    .mainForm2Top_P{max-width: none;}
+    .mainForm4Bottom{
+        width: 56rem;
+        height: 57rem;    
+    }
+    .form4BottomSections1{
+        width: 49rem;
+        height: 14rem;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+    }
+    .form4BottomSection1{
+        width: 27rem;
+        height: 14rem;
+        right: 6rem;
+    }
+    .form4BottomSections1_Img{display: flex;}
+    .form4BottomSections2{
+        width: 56rem;
+        height: 34rem;
+    }
+    .form4BottomSection2Left{
+        width: 25rem;
+        height: 29rem;
+        position: absolute;
+        left: 0;
+    }
+    .form4BottomSection2Right{
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        right: 10rem;
+        top: 1rem;
+    }
+    .form4Section2Rights{
+        width: 16rem;
+        height: 13rem;
+    }
+    .m6Left_apps{flex-direction: row;}
+    .form4SectionRight_H4{margin-bottom: 0.7rem;}
+    .form4SectionRight_Img{display: flex;}
+    .mainForm6{
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .Form6RightImg{
+        right: -15rem;
+        top: 0;
+    }
+    .Form6RightImg3{
+        width: 21rem;
+        height: 47rem;
+        right: -11rem;
+        z-index: -1;
+    }
+    .form7Background{padding: 17rem 0;}
+    .form7Sections{
+        padding: 5.7rem 5rem;
+        flex-flow: row-reverse;
+        justify-content: space-evenly;
+    }
+    .form7Top{
+        width: 52rem;
+        border-left: solid #E9E9E9 0.1rem;
+        padding-left: 8rem;
+    }
+    .form7BottomImg1{display: flex;}
+    .form7BottomImg2{display: flex;}
+    .footerSectionS{justify-content: center;flex-direction: row;flex-wrap: wrap;}
+    .footerSection_1 p{display: block;}   
+    .footer_imgLeft{display: flex;}
+    .footer_imgRight{display: flex;} 
+}
+/*  */
+@media (min-width:992px) {
+    .navBtn , .mobileNavMenu{
+        display: none;
+    }
+    .navBarBtn{ display: flex;}
+    .desktopMenu{display: flex;}
+    .headerh1{max-width: 60rem;}
+    .Instant{max-width: none;}
+    .navForm1{
+        justify-content: center;
+        flex-direction: row;
+        margin-top: 4rem;
+    }
+    .navForm1Input{
+        height: 5rem;
+        width: 28rem;
+        border-radius: 1rem 0 0 1rem;
+    }
+    .navForm1Input2{
+        height: 5rem;
+        width: 17rem;
+        border-radius: 0;
+    }
+    .navForm1Search{
+        height: 5rem;
+        width: 11rem;
+        border-radius: 0 1rem 1rem 0;
+    }
+    .headerBottomIMgRight{
+        width: 40.3rem;
+        height: 49.5rem;
+    }
+    .headerBottomIMgLeft{
+        width: 40.3rem;
+        height: 49.5rem;
+    }
+    .headerBottomIcon , .headerBottomIcon > img{display: flex;}
+    .mainForm2{
+        margin-top: 20rem;
+        margin-bottom: 6rem;
+        padding-bottom: 2rem;
+    }
+    .mainForm2_Bottom{
+        flex-flow: row-reverse;
+        justify-content: space-evenly;
+    }
+    .mainForm2_BottomLeft{height: min-content;}
+    .mainForm2_BottomLeft_img1{
+        width: 52rem;
+        height: 43rem; 
+    }
+    .mainForm2_BottomLeft_img2{
+        width: 46rem;
+        height: 60rem;
+        top : -15rem;
+    }
+    .mainForm2_BottomLeft_Section3{bottom: -2rem;}
+    .Discover{
+        margin: 0;
+        text-align: left;}
+    .form3Btn{
+        margin: 0;
+        top: 0;left: auto;
+        right: 0;
+    }
+    .form3SectionS{
+        width: 27rem;
+        height: 28rem;
+    }
+    .mainFrom4{
+        flex-flow: row-reverse;
+        justify-content: space-evenly;
+    }
+    .Form6RightImg1{
+        bottom: 12rem;
+        left: -20rem;
+    }
+    .form7section1{width: 48rem;}
+    .form7section2{width: 48rem;}
+    .form7sectionBtn{width: 48rem;}
+    .form7BottomImg1{
+        top: -6rem;
+        left: -12rem;
+    }
+    .form7BottomImg2{
+        left: -11rem;
+    }
+    .form8Top{justify-content: space-between;}
+    .form8Button{position: relative;top: 1.5rem;}
+    .footerSectionS{padding: 11rem 0 15rem 0;flex-wrap: nowrap;}
+    .footer_imgLeft{width: 30rem;height: 36rem;}
+    .footer_imgRight{width: 32rem;height: 41.9rem;}
+}
+/*  */
+@media (min-width:1200px) {
+
+}
+/*  */
+@media (min-width:1400px) {
+    .form7BottomImg1{
+        left: -16rem;
+    }
+    .form7BottomImg2{
+        left: -18rem;
+    }
+
+}
