@@ -14,3 +14,17 @@ navBtn.addEventListener("click" , function(){
         navOpen = true
     }
 })
+let ac = document.querySelectorAll('.click')
+ac.forEach( i =>{
+    i.addEventListener('click' , function(){
+        i.classList.toggle('ac')
+
+        const lorem = i.nextElementSibling
+        lorem.classList.toggle('ad')
+        if(lorem.style.height){
+            lorem.style.height = null
+        }else{
+            lorem.style.height = lorem.scrollHeight + 'px'
+        }
+    })
+})

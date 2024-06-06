@@ -160,6 +160,7 @@
     .mainFrom4{
         flex-flow: row-reverse;
         justify-content: space-evenly;
+        align-items: normal;
     }
     .Form6RightImg1{
         bottom: 12rem;
